@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+# data/*.db     ← comment this out or delete it
+.env
+.DS_Store
